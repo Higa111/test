@@ -1,0 +1,15 @@
+package testproject01;
+
+public class Halloworld {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hallo world!!");
+		//Hallo world!!を出力します
+		//間違いやすい所：Systemの頭文字は大文字！
+		// TODO 自動生成されたメソッド・スタブ
+		System.out.println(123);
+
+	}
+
+}
