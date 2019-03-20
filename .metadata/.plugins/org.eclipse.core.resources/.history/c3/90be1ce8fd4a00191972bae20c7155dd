@@ -1,0 +1,17 @@
+
+public class java4 {
+
+	public static void main(String[] args) {
+
+	String [][] country=new String[3][2];
+	
+	country[0][1]="日本";
+	country[0][2]="タイ";
+	country[1][1]="アメリカ";
+	country[1][2]="ブラジル";
+	country[2][1]="フランス";
+	country[2][2]="ロシア";
+	
+	System.out.println(country[1][1]);
+	}
+}

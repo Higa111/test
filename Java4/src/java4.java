@@ -3,21 +3,11 @@ public class java4 {
 
 	public static void main(String[] args) {
 
-    int number =110;
-  
- if(number<=100){
-	 if(number<20){
-		 System.out.println("未成年");
-	 }else if(number==77){
-		 System.out.println("喜寿");
-	 }else if(number==88){
-		 System.out.println("米寿");
-	 }else if(number==100){
-	 System.out.println("白寿");
-	 }else{
-		 System.out.println("成人");
-	 }
- }
-    
+	int i = 10;
+	do{
+		System.out.println(i);
+		i-=3;
+	}while(i>=1);
+	
 	}
 }
