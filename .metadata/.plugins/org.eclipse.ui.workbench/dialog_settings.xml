@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<section name="WorkbenchPreferenceDialogSettings">
-		<item value="305" key="DIALOG_X_ORIGIN"/>
-		<item value="49" key="DIALOG_Y_ORIGIN"/>
-	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item value="747" key="dialogHeight"/>
-		<item value="1440" key="dialogWidth"/>
+		<item value="-1" key="dialogHeight"/>
+		<item value="-1" key="dialogWidth"/>
 		<list key="textEntries">
 		</list>
 		<list key="orderedElements">
@@ -17,16 +13,12 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
-<<<<<<< HEAD
-		<item value="org.eclipse.datatools.sqltools.internal.sqlscrapbook.wizards.NewSQLScrapbookFileCreationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.datatools.sql"/>
-=======
-		<item value="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
-		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.jst.j2ee.internal"/>
-			<item value="org.eclipse.wst.web.ui"/>
->>>>>>> ea4f6683af347858b719c7dccf24cea483a96f66
+			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
+			<item value="org.eclipse.wst.XMLCategory"/>
+			<item value="org.eclipse.jpt.dbws"/>
+			<item value="org.eclipse.ui.Examples"/>
 		</list>
 	</section>
 </section>

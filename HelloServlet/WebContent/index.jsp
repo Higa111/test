@@ -1,6 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-<<<<<<< HEAD
-	pageEncoding="UTF-8"%>
+pageEncoding="UTF-8"%>
 	<!DOCTYPE html>
 	<html>
 	<head>
@@ -32,18 +31,3 @@
 	</body>
 
 	</html>
-=======
-    pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>HelloServlet</title>
-</head>
-<body>
-<input type="button" value="HelloServlet"onClick="location.href="HelloServlet">
-<body>
-
-</body>
-</html>
->>>>>>> ea4f6683af347858b719c7dccf24cea483a96f66

@@ -1,0 +1,14 @@
+127.0.0.1 - - [17/Apr/2019:20:13:29 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:20:13:31 +0900] "GET /HelloServlet/ HTTP/1.1" 200 852
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:20:13:41 +0900] "GET /HelloServlet/MySQLServlet HTTP/1.1" 200 141
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:20:14:14 +0900] "GET /HelloServlet/HelloServlet HTTP/1.1" 200 59
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:20:14:17 +0900] "GET /HelloServlet/welcome.jsp HTTP/1.1" 200 372
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:20:14:27 +0900] "POST /HelloServlet/WelcomeServlet HTTP/1.1" 200 74
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:20:14:33 +0900] "GET /HelloServlet/inquiry.jsp HTTP/1.1" 200 621
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:20:14:43 +0900] "POST /HelloServlet/InquiryServlet HTTP/1.1" 200 108
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:20:14:55 +0900] "GET /HelloServlet/TestServlet?username=asd&password=asd HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:20:15:02 +0900] "POST /HelloServlet/TestServlet HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:20:15:05 +0900] "GET /HelloServlet/MySQLServlet HTTP/1.1" 200 141
+127.0.0.1 - - [17/Apr/2019:20:18:30 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:20:18:31 +0900] "GET /HelloServlet/ HTTP/1.1" 200 852
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:20:18:34 +0900] "GET /HelloServlet/MySQLServlet HTTP/1.1" 200 310
