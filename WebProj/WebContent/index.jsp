@@ -19,7 +19,7 @@
 		<s:submit value="HellloStruts" />
 	</s:form>
 
-	<s:form action="WelcomeAcyion">
+	<s:form action="WelcomeAction">
 		<s:submit value="Welcome"/>
 	</s:form>
 
