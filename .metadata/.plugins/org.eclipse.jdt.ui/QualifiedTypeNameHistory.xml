@@ -4,4 +4,5 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.sql.SQLException"/>
 <fullyQualifiedTypeName name="com.internousdev.webproj2.dao.HelloStrutsDAO"/>
+<fullyQualifiedTypeName name="com.internousdev.webproj2.dao.TestDAO"/>
 </qualifiedTypeNameHistroy>
