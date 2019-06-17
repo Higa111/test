@@ -1,9 +1,0 @@
-package com.internousdev.webproj2.dao;
-
-public class InquiryCompleteDAO {
-
-	public InquiryCompleteDAO() {
-		// TODO 自動生成されたコンストラクター・スタブ
-	}
-
-}
