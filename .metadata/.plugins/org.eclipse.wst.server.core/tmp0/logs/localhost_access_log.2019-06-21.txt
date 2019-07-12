@@ -7,3 +7,5 @@
 0:0:0:0:0:0:0:1 - - [21/Jun/2019:21:38:11 +0900] "POST /WebProj4/HelloStrutsAction;jsessionid=2EEAE64E46D0F8F0BC86718A39AB9CD6 HTTP/1.1" 200 3531
 0:0:0:0:0:0:0:1 - - [21/Jun/2019:21:39:22 +0900] "GET /WebProj4/ HTTP/1.1" 200 404
 0:0:0:0:0:0:0:1 - - [21/Jun/2019:21:39:24 +0900] "POST /WebProj4/HelloStrutsAction HTTP/1.1" 200 3531
+0:0:0:0:0:0:0:1 - - [21/Jun/2019:21:51:19 +0900] "GET /WebProj4/ HTTP/1.1" 200 404
+0:0:0:0:0:0:0:1 - - [21/Jun/2019:21:51:20 +0900] "POST /WebProj4/HelloStrutsAction HTTP/1.1" 200 3531
