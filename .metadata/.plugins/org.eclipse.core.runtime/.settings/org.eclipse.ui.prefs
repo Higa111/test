@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 eclipse.preferences.version=1
 ENABLE_ANIMATIONS=false
 SHOW_MEMORY_MONITOR=true
 showIntro=false
+=======
+eclipse.preferences.version=1
+ENABLE_ANIMATIONS=false
+SHOW_MEMORY_MONITOR=true
+showIntro=false
+>>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a

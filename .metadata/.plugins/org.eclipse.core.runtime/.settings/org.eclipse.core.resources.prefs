@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 version=1
 eclipse.preferences.version=1
 encoding=UTF-8
 refresh.lightweight.enabled=true
+=======
+version=1
+eclipse.preferences.version=1
+encoding=UTF-8
+refresh.lightweight.enabled=true
+>>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a

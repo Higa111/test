@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 eclipse.preferences.version=1
 migrated.task.repositories.secure.store=true
 org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
 org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
+=======
+eclipse.preferences.version=1
+migrated.task.repositories.secure.store=true
+org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
+org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
+>>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a

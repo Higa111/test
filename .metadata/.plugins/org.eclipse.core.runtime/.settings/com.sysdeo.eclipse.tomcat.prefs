@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tomcatDir=C:/pleiades/tomcat/7
 eclipse.preferences.version=1
 fixTomcatHomeBug=fixed
@@ -5,3 +6,12 @@ contextsDir=C:/pleiades/tomcat/7/conf/Catalina/localhost
 tomcatVersion=tomcatV7
 computeSourcePath=true
 tomcatConfigFile=C:/pleiades/tomcat/7/conf/server.xml
+=======
+tomcatDir=C:/pleiades/tomcat/7
+eclipse.preferences.version=1
+fixTomcatHomeBug=fixed
+contextsDir=C:/pleiades/tomcat/7/conf/Catalina/localhost
+tomcatVersion=tomcatV7
+computeSourcePath=true
+tomcatConfigFile=C:/pleiades/tomcat/7/conf/server.xml
+>>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a

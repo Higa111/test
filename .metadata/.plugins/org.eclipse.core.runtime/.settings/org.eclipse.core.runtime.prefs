@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 content-types/org.eclipse.core.runtime.xml/file-extensions=dicon
 content-types/org.eclipse.jst.jsp.core.jspfragmentsource/charset=UTF-8
 content-types/org.eclipse.jst.jsp.core.jspsource/charset=UTF-8
 content-types/org.eclipse.jst.jsp.core.tagsource/charset=UTF-8
 content-types/org.eclipse.jst.jsp.core.tagxsource/charset=UTF-8
 eclipse.preferences.version=1
+=======
+content-types/org.eclipse.core.runtime.xml/file-extensions=dicon
+content-types/org.eclipse.jst.jsp.core.jspfragmentsource/charset=UTF-8
+content-types/org.eclipse.jst.jsp.core.jspsource/charset=UTF-8
+content-types/org.eclipse.jst.jsp.core.tagsource/charset=UTF-8
+content-types/org.eclipse.jst.jsp.core.tagxsource/charset=UTF-8
+eclipse.preferences.version=1
+>>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a

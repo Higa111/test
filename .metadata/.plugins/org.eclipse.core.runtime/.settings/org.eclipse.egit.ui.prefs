@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 eclipse.preferences.version=1
 show_git_prefix_warning=false
 show_home_drive_warning=false
 show_initial_config_dialog=false
+=======
+eclipse.preferences.version=1
+show_git_prefix_warning=false
+show_home_drive_warning=false
+show_initial_config_dialog=false
+>>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a

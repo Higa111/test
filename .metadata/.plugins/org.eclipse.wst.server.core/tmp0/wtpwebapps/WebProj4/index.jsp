@@ -11,9 +11,12 @@ pageEncoding="UTF-8"%>
 <s:form action="HelloStrutsAction">
 	<s:submit value="HelloStruts"/>
 </s:form>
+<<<<<<< HEAD
 
 <s:form action ="WelcomeAction">
 	<s:submit value="Welcome"/>
 </s:form>
+=======
+>>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a
 </body>
 </html>

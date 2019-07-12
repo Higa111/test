@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 anonymizeMessages=false
 anonymizeStackTraces=true
 configured=true
@@ -10,3 +11,17 @@ resetSendModeOn=0
 sendMode=NEVER
 servers/org.eclipse.epp.logging.aeri.ide.server/configured=true
 servers/org.eclipse.epp.logging.aeri.ide.server/enabled=false
+=======
+anonymizeMessages=false
+anonymizeStackTraces=true
+configured=true
+debugEnabled=false
+eclipse.preferences.version=1
+reporterEmail=
+reporterName=
+resetSendMode=KEEP
+resetSendModeOn=0
+sendMode=NEVER
+servers/org.eclipse.epp.logging.aeri.ide.server/configured=true
+servers/org.eclipse.epp.logging.aeri.ide.server/enabled=false
+>>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+>>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a
 <!--
   Licensed to the Apache Software Foundation (ASF) under one or more
   contributor license agreements.  See the NOTICE file distributed with
@@ -124,7 +128,11 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
+<<<<<<< HEAD
       <Context docBase="C:\Users\testuser\Desktop\workspace\workspace-higa\test\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\testuser\Desktop\workspace\workspace-higa\test\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\WebProj4" path="/WebProj4" reloadable="true" source="org.eclipse.jst.jee.server:WebProj4"/><Context docBase="C:\Users\testuser\Desktop\workspace\workspace-higa\test\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\WebProj2" path="/WebProj2" reloadable="true" source="org.eclipse.jst.jee.server:WebProj2"/></Host>
+=======
+      <Context docBase="C:\Users\testuser\Desktop\workspace\workspace-higa\test\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\testuser\Desktop\workspace\workspace-higa\test\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\WebProj4" path="/WebProj4" reloadable="true" source="org.eclipse.jst.jee.server:WebProj4"/></Host>
+>>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a
     </Engine>
   </Service>
 </Server>
