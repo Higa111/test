@@ -1,49 +1,7 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<section name="CleanDialogSettings">
-		<item value="662" key="DIALOG_WIDTH"/>
-		<item value="false" key="TOGGLE_SELECTED"/>
-		<item value="423" key="DIALOG_HEIGHT"/>
-		<item value="313" key="DIALOG_X_ORIGIN"/>
-		<item value="237" key="DIALOG_Y_ORIGIN"/>
-	</section>
-	<section name="ExternalProjectImportWizard">
-		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
-		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
-		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
-		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="C:\Users\testuser\Desktop\workspace\workspace-higa\test"/>
-		</list>
-		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
-			<item value=""/>
-		</list>
-	</section>
 	<section name="ResourceNavigator">
-		<item value="Aggregate for window 1561113078561" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
+		<item value="Aggregate for window 1563360179054" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
 		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
 	</section>
 </section>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<section name="CleanDialogSettings">
-		<item value="901" key="DIALOG_WIDTH"/>
-		<item value="true" key="TOGGLE_SELECTED"/>
-		<item value="378" key="DIALOG_HEIGHT"/>
-		<item value="637" key="DIALOG_X_ORIGIN"/>
-		<item value="177" key="DIALOG_Y_ORIGIN"/>
-	</section>
-	<section name="ExternalProjectImportWizard">
-		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
-		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
-		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
-		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="C:\Users\testuser\Desktop\workspace\workspace-higa\test"/>
-		</list>
-		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
-			<item value=""/>
-		</list>
-	</section>
-</section>
->>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a

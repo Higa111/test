@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-activeuserprofiles=MyComputer;Team
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=310196bd15f4e32dd0e6ff79819e85c1627af81a
+activeuserprofiles=MyComputer;Team;internous-PC
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=testuser
-useridperkey=MyComputer.\u30ED\u30FC\u30AB\u30EB\=testuser;
-=======
-eclipse.preferences.version=1
-org.eclipse.rse.systemtype.local.systemType.defaultUserId=testuser
->>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a
+useridperkey=MyComputer.\u30ED\u30FC\u30AB\u30EB\=testuser;internous-PC.\u30ED\u30FC\u30AB\u30EB\=testuser;
