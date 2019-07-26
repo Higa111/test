@@ -1,0 +1,11 @@
+127.0.0.1 - - [26/Jul/2019:21:28:32 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [26/Jul/2019:21:28:37 +0900] "GET /WebProj4/ HTTP/1.1" 200 2219
+0:0:0:0:0:0:0:1 - - [26/Jul/2019:21:29:25 +0900] "GET /WebProj4/TestAction.action;jsessionid=5644C90020446587ED1D170347541164?username=saburo&password=234 HTTP/1.1" 200 162
+0:0:0:0:0:0:0:1 - - [26/Jul/2019:21:33:30 +0900] "GET /WebProj4/ HTTP/1.1" 200 2099
+0:0:0:0:0:0:0:1 - - [26/Jul/2019:21:33:39 +0900] "POST /WebProj4/TestAction.action HTTP/1.1" 200 162
+0:0:0:0:0:0:0:1 - - [26/Jul/2019:21:34:12 +0900] "GET /WebProj4/ HTTP/1.1" 200 2099
+0:0:0:0:0:0:0:1 - - [26/Jul/2019:21:34:21 +0900] "GET /WebProj4/TestAction.action?username=saburo&password=234 HTTP/1.1" 200 162
+127.0.0.1 - - [26/Jul/2019:21:38:27 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [26/Jul/2019:21:38:30 +0900] "GET /WebProj4/ HTTP/1.1" 200 2099
+0:0:0:0:0:0:0:1 - - [26/Jul/2019:21:38:47 +0900] "GET /WebProj4/TestAction.action?username=shiro&password=234 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [26/Jul/2019:21:38:47 +0900] "GET /WebProj4/TestAction.action?username=shiro&password=234 HTTP/1.1" 200 162

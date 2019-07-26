@@ -30,5 +30,10 @@
 	method="execute">
 	<result name="success">inquiryComplete.jsp</result>
 	</action>
+
+	<action name="TestAction" class="com.internousdev.webproj4.action.TestAction" method="execute">
+	<result name="success">hello.jsp</result>
+	<result name="error">helloStrutsError.jsp</result>
+	</action>
 	</package>
 </struts>

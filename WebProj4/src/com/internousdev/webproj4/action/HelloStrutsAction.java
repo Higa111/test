@@ -13,6 +13,7 @@ public class HelloStrutsAction extends ActionSupport{
 
 	public String execute(){
 		String ret=ERROR;
+		
 		HelloStrutsDAO dao=new HelloStrutsDAO();
 
 		HelloStrutsDTOList=dao.select();
