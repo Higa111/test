@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=310196bd15f4e32dd0e6ff79819e85c1627af81a
 eclipse.preferences.version=1
 firstStartup=false
-=======
-eclipse.preferences.version=1
-firstStartup=false
->>>>>>> 310196bd15f4e32dd0e6ff79819e85c1627af81a
+org.eclipse.team.svn.ui.panel.local.CommitPanel.height=406
+org.eclipse.team.svn.ui.panel.local.CommitPanel.width=600
