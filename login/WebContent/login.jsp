@@ -8,6 +8,7 @@
 </head>
 <body>
 	<s:form action="LoginAction">
+		ユーザー名
 		<s:textfield name="name"/>
 		<s:password name="password"/>
 		<s:submit value="ログイン"/>
