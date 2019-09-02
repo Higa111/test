@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+"http://struts.apache.org/dtds/struts-2.3.dtd">
+<!-- Strutsの詳細設定 -->
+
+<struts>
+		<constant name="struts.devMode" value="true"/>
+
+<!-- 対象のpackageを設定 -->
+		<pacage name="com.internousdev.template.action" extends="struts-default">
+
+			<!-- HomeAction -->
+			<action name="HomeAction" class="internousdev.template.action.HomeAction"
+			method="execute">
+			<result name="success">login.jsp</result>
+			</action>
+
+			<!-- LoginAction -->
+			<action name="LoginAction" class="com.internousdev.template.action.LoginAction"
+			method="execute">
+			<result name="success">buyItem.jsp</result>
+			<result name="error">home.jsp</result>
+			</action>
+
+			<!-- UserCreatction -->
+			<action name="UserCreateAction" class="com.internousdev.template.action.UserCreateAction"
+			method="execute">
+			<result name="success">userCreate.jsp</result>
+			</action>
+
+			<!-- UserCreateConfirmAction -->
+			<action name="UserCreateConfirmAction" class="com.internousdev.template.action.UserCreateConfirmAction"
+			method="execute">
+			<result name="success">userCreateConfirm.jsp</result>
+			<result name="error">userCreate.jsp</result>
+			</action>
+
+			<!-- UserCreateComplateAction -->
+			<action name="UserCreateComplateAction" class="com.internousdev.template.action.UserCreateComplateAction"
+			method="execute">
+			<result name="success">userCreateComplate.jsp</result>
+			</action>
+
+			<!-- BuyItemAction -->
+			<action name="BuyItemAction" class="com.internousdev.template.action.BuyItemAction"
+			method="execute">
+			<result name="success">buyItemConfirm.jsp</result>
+			</action>
+
+			<!-- BuyItemConfirmAction -->
+			<action name="BuyItemConfirmAction" class="internousdev.template.action.BuyItemConfirmAction"
+			method="execute">
+			<result name="success">buyItemComplate.jsp</result>
+			</action>
+
+			<!-- MypageAction -->
+			<action name="MyPageAction" class="com.internousdev.template.action.NypageAction"
+			method="execute">
+			<result name="success">myPage.jsp</result>
+			</action>
+		</pacage>
+</struts>
